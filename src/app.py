@@ -56,8 +56,14 @@ activities = {
     "Art Workshop": {
         "description": "Explore painting, drawing, and sculpture techniques",
         "schedule": "Mondays, 4:00 PM - 5:30 PM",
-        "max_participants": 18,
-        "participants": ["ella@mergington.edu", "noah@mergington.edu"]
+        "max_participants": 16,
+        "participants": ["noah@mergington.edu", "isabella@mergington.edu"]
+    },
+    "Drama Club": {
+        "description": "Act, direct, and produce school plays and performances",
+        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": ["ethan@mergington.edu", "charlotte@mergington.edu"]
     },
     "Drama Club": {
         "description": "Act, direct, and produce school plays and performances",
